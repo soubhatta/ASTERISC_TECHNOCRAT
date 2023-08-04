@@ -1,2 +1,2 @@
 # ASTERISC_TECHNOCRAT
-Projects on Data Science
+Projects on Data Science Internship
